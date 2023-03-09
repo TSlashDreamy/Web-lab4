@@ -43,6 +43,11 @@ body {
     font-family: "Nirmala UI";
 }
 
+.footer-text {
+    font-family: "Nirmala UI";
+    font-weight: 100;
+}
+
 .sub-btn {
     border-radius: 0;
     background-color: #222;
@@ -60,4 +65,8 @@ body {
     width: 100%;
     height: 15px;
     background-color: #000000FF;
+}
+
+#copyright {
+    transition: all 0.2s ease-in-out;
 }
